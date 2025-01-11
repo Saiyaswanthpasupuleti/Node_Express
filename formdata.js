@@ -9,7 +9,7 @@
 // // // MongoDB Connection
 // // mongoose
 // //   .connect(
-// //     "mongodb+srv://saiyaswanths959:jw9B77iqH85zVt5e@cluster0.w5uqy.mongodb.net/fileuploads" 
+// //     "" 
 // //   )
 // //   .then(() => {
 // //     console.log("Database Connected Successfully");
